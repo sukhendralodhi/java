@@ -32,5 +32,6 @@ public class Switch {
                 System.out.println("Pls enter number between 1 to 7");
                 break;
         }
+        sc.close();
     }
 }

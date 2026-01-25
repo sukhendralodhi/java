@@ -19,5 +19,6 @@ public class P3 {
 
         // System.out.println(age >= 18 && hasID);
         // System.out.println(age >= 18 || hasID);
+        System.out.println(a);
     }
 }

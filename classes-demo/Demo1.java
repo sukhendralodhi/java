@@ -15,5 +15,6 @@ public class Demo1 {
         Calculator obj = new Calculator();
         int result = obj.add(10, 20);
         System.out.println(result);
+        System.out.println(data);
     }
 }

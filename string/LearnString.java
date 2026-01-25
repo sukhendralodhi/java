@@ -11,5 +11,7 @@ public class LearnString {
         String secondName = sc.nextLine();
 
         System.out.println("Your full name is: " + fisrtName + " " + secondName);
+
+        sc.close();
     }
 }

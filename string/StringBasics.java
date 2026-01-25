@@ -19,6 +19,7 @@ public class StringBasics {
 
         // System.out.println(name.equals(newName));
         System.out.println(sameName.equals(name));
+        System.out.println(newName);
 
 
     }
